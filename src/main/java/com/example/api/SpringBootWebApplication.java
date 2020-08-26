@@ -11,6 +11,7 @@ public class SpringBootWebApplication {
                  
   int i=10;
 int j=20;
+int d=20;
 	}
 
 }
