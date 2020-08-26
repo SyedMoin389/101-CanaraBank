@@ -12,7 +12,7 @@
 	<artifactId>SpringBoot-web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBoot-web</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Git Gui using Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
